@@ -1,4 +1,4 @@
-![项目结构](asset/picture/deepinglearning/rapeseed-3d-reconstruction-concept/whiteboard_exported_image.pdf)
+![项目结构](asset/picture/deepinglearning/rapeseed-3d-reconstruction-concept/whiteboard_exported_image.png)
 1. 项目目标
    - 构建综合技术体系涵盖油菜全生育周期。
    - 应用于育种、生长监测、产量预估及精准种植管理。
