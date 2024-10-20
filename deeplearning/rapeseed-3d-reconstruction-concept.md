@@ -1,3 +1,4 @@
+![项目结构](https://xcnx25vdviba.feishu.cn/docx/ROktdD39yoWS2RxwNH1cMyj2npd?openbrd=1&doc_app_id=501&blockId=IhezdYrbyoZ23px5rk7c9vK1nWc&blockType=whiteboard&blockToken=DBoCwJWi3h91RMbhlu2c3tq5nob#IhezdYrbyoZ23px5rk7c9vK1nWc)
 1. 项目目标
    - 构建综合技术体系涵盖油菜全生育周期。
    - 应用于育种、生长监测、产量预估及精准种植管理。
